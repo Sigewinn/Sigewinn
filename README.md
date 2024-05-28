@@ -1,5 +1,9 @@
-## Hi there 👋
+meu nome é Sigewinne(sim sou fã de genshin)
+to estudando JavaScript no alura
+aq vou colocar alguns dos projetos feitos
 
+# Contato:
+00001111354625sp@al.educacao.sp.gov.br
 <!--
 **Sigewinn/Sigewinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
